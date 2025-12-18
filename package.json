@@ -9,9 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.0.10",
-    "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "@langchain/core": "^1.1.6",
+    "@langchain/google-genai": "^2.1.1",
+    "busboy": "^1.6.0",
+    "csv-parse": "^6.1.0",
+    "langchain": "^1.2.1",
+    "next": "^16.0.10",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
